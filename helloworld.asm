@@ -3,7 +3,7 @@
 ; Author    :   Aswin M Guptha                                                 ;
 ; Date      :   12/2/2016                                                      ;
 ; Program   :   print "Hello World" using printf                               ;
-;                                                                          	   ;
+;                                                                              ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 extern printf                           ; declare printf as extern
