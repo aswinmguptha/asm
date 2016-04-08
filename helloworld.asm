@@ -18,7 +18,7 @@ section .text
         push ebp                        ; saving old base pointer
         mov ebp, esp                    ; setting up current base pointer
 
-        push message              		; push message
+        push message              	    ; push message to stack
         call printf						; print the message
 
         add esp, 4                      ; pop msg off stack
